@@ -530,9 +530,21 @@
 * [治意经(1卷)](a-han-bu/zhi-yi-jing-1-juan.md)
 * [广义法门经(1卷)](a-han-bu/guang-yi-fa-men-jing-1-juan.md)
 * [普法义经(1卷)](a-han-bu/pu-fa-yi-jing-1-juan.md)
-* [杂阿含经(50卷)](a-han-bu/zaahan-jing-50-juan/README.md)
+* [🙏 杂阿含经(50卷)](a-han-bu/zaahan-jing-50-juan/README.md)
   * [杂阿含经卷第一](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-yi.md)
   * [杂阿含经卷第二](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-er.md)
+  * [杂阿含经卷第三](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-san.md)
+  * [杂阿含经卷第四](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-si.md)
+  * [杂阿含经卷第五](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-wu.md)
+  * [杂阿含经卷第六](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-liu.md)
+  * [杂阿含经卷第七](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-qi.md)
+  * [杂阿含经卷第八](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-ba.md)
+  * [杂阿含经卷第九](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-jiu.md)
+  * [杂阿含经卷第十](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-shi.md)
+  * [杂阿含经卷第十一](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-shi-yi.md)
+  * [杂阿含经卷第十二](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-shi-er.md)
+  * [杂阿含经卷第十三](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-shi-san.md)
+  * [杂阿含经卷第十四](a-han-bu/zaahan-jing-50-juan/zaahan-jing-juan-di-shi-si.md)
 
 ## 🪱 本缘部
 
